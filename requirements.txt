@@ -1,7 +1,7 @@
 flask==1.1.2
 flask_socketio==4.3.0
 pycryptodome==3.9.7 
-eventlet==0.25.2
+eventlet==0.31.0
 requests==2.23.0
 pyopenssl==19.1.0
 apscheduler==3.6.3
